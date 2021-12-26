@@ -1,6 +1,9 @@
-REMIX EXAMPLE PROJECT
+Ready-BEP20-token
 
-Remix example project is present when Remix loads very first time or there are no files existing in the File Explorer. 
+I create this project based on some big existing project like Safemoon, SafeMars . Language: Solidity , IDE: Remix
+
+
+Remix project is present when Remix loads very first time or there are no files existing in the File Explorer. 
 It contains 3 directories:
 
 1. 'contracts': Holds three contracts with different complexity level, denoted with number prefix in file name.
